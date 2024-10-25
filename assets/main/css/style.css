@@ -100,3 +100,31 @@ body {
     color: #fff;
 }
 /* ----------------------- Home Section End ----------------------- */
+
+
+/* ----------------------- About Section Begin ----------------------- */
+.gold_text {
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFAE00;
+}
+
+.main_title {
+    font-size: 24px;
+    font-weight: 500;
+    color: #4F4F4F;
+}
+
+.main_text {
+    font-size: 16px;
+    font-weight: 300;
+    color: #4F4F4F;
+}
+
+.pink_title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #F3849F;
+}
+
+/* ----------------------- About Section End ----------------------- */
