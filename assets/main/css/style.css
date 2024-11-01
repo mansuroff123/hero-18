@@ -67,6 +67,9 @@ body {
     font-size: 16px;
     font-weight: 400;
     font-family: "Poppins", sans-serif, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 /* ----------------------- Home Section Begin ----------------------- */
@@ -128,3 +131,26 @@ body {
 }
 
 /* ----------------------- About Section End ----------------------- */
+
+
+/* ----------------------- Box Section Begin ----------------------- */
+.box h6, .box p {
+    margin: 0;
+} 
+
+.box {
+    box-shadow: 0px 0px 100px 0px #0000000D;
+    padding: 75px;
+}
+
+.box_title {
+    color: #4F4F4F;
+    font-weight: 500;
+    font-size: 17px;
+}
+.box_text {
+    color: #4F4F4F;
+    font-weight: 400;
+    font-size: 12px;
+}
+/* ----------------------- Box Section End ----------------------- */
